@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abrahamputraprakasa
-- 👀 I’m interested in Java, .NET, PHP, Vue, React
-- 🌱 I’m currently learning .NET Core + React
-- 💞️ I’m looking to collaborate on remote working
+- 👀 I’m interested in Java, .NET, Laravel, Vue, Angular
+- 🌱 I’m currently learning Angular
+- 💞️ I’m currently work for Skybridge Indonesia
 - 📫 How to reach me, mail to abrahamprakasa@gmail.com
 
 <!---
