@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abrahamputraprakasa
-- 👀 I’m interested in Java, .NET, Laravel, Vue, Angular
-- 🌱 I’m currently learning Angular
+- 🌱👀 I’m interested in Laravel, Vue, Angular, Java, .NET
 - 💞️ I’m currently work for Skybridge Indonesia
 - 📫 How to reach me, mail to abrahamprakasa@gmail.com
 
